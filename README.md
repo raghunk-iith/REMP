@@ -5,5 +5,7 @@ REMP take the input as nucleotide sequence of a DNA primer carrying a desired mu
 ![REMP](https://user-images.githubusercontent.com/76147187/117530111-f7dae480-aff8-11eb-9fd7-a54b6a3ae2a5.JPG)
 
 ## Launch
-
+REMP can be launched by two ways
+* Using executable
+* Using python code
 
