@@ -15,11 +15,15 @@ $cd downloaded path/REMP Mac/
 $./REMP
 ```
 ### Using python code
-Clone or download this repo to your desktop. Python 3 compiler is required to run the program. Type below commands in command prompt/terminal.
+Clone or download this repo to local machine. Python 3 compiler is required to run the program. Type below commands in command prompt/terminal.
 ```
-$ cd Desktop/REMP/
+$ cd downloaded path/REMP/
 $ python3 REMP.py
 ```
+
+## LICENSE
+GTO is under MIT license. For more information, click
+[here](https://opensource.org/licenses/MIT).
 
 
 
