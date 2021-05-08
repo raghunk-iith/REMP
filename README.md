@@ -22,7 +22,7 @@ $ python3 REMP.py
 ```
 
 ## LICENSE
-GTO is under MIT license. For more information, click
+REMP is under MIT license. For more information, click
 [here](https://opensource.org/licenses/MIT).
 
 
