@@ -11,13 +11,13 @@ REMP can be executed by in two ways.
 ### Using executable file
 REMP executable files for Windows and Mac can be download from [Executable Files](https://github.com/raghunk-iith/REMP/tree/main/Executable%20Files) . In downloaded compressed file contains three files, one is application file `REMP` others are data files `table 1` and `table 2`. Run the `REMP.exe` file to luanch the apllication in Winodws. To launch the REMP in Mac type below commands in terminal.
 ```
-$cd Downloaded path/REMP Mac/
+$cd Downloaded Path/REMP Mac/
 $./REMP
 ```
 ### Using python code
 Clone or download this repo to local machine. REMP can be run on any operating system, Python 3 compiler is required to run the program. To run the REMP enter below commands in command prompt/terminal.
 ```
-$ cd Downloaded path/REMP/
+$ cd Downloaded Path/REMP/
 $ python3 REMP.py
 ```
 
