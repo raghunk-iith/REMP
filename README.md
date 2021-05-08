@@ -9,5 +9,5 @@ REMP can be launched by two ways.
 * Using executable file
 * Using python code
 ### Using executable file
-REMP executable files for Windows and Mac can be download from [here](https://github.com/raghunk-iith/REMP/tree/main/Executable%20Files) .   
+REMP executable files for Windows and Mac can be download from [Executable Files](https://github.com/raghunk-iith/REMP/tree/main/Executable%20Files) .   
 
