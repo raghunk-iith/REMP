@@ -15,7 +15,7 @@ $cd downloaded path/REMP Mac/
 $./REMP
 ```
 ### Using python code
-Clone or download this repo to local machine. Python 3 compiler is required to run the program. Type below commands in command prompt/terminal.
+Clone or download this repo to local machine. REMP can be run on any operating system, Python 3 compiler is required to run the program. To run the REMP enter below commands in command prompt/terminal.
 ```
 $ cd downloaded path/REMP/
 $ python3 REMP.py
